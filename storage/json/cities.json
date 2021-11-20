@@ -1,0 +1,2146 @@
+[
+    {
+        "cityID": 116,
+        "cityName": "Florianópolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.58,
+        "longitude": -48.57
+    },
+    {
+        "cityID": 1758,
+        "cityName": "Joinville",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.3,
+        "longitude": -48.83
+    },
+    {
+        "cityID": 2456,
+        "cityName": "São José",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.63,
+        "longitude": -48.65
+    },
+    {
+        "cityID": 2908,
+        "cityName": "Blumenau",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -49.05
+    },
+    {
+        "cityID": 6740,
+        "cityName": "Itajaí",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.88,
+        "longitude": -48.65
+    },
+    {
+        "cityID": 7498,
+        "cityName": "Camboriú",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.98,
+        "longitude": -48.63
+    },
+    {
+        "cityID": 7983,
+        "cityName": "Porto Belo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.16,
+        "longitude": -48.54
+    },
+    {
+        "cityID": 7984,
+        "cityName": "Xanxerê",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.88,
+        "longitude": -52.38
+    },
+    {
+        "cityID": 8484,
+        "cityName": "Forquilhinha",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.75,
+        "longitude": -49.47
+    },
+    {
+        "cityID": 8488,
+        "cityName": "Brusque",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.1,
+        "longitude": -48.93
+    },
+    {
+        "cityID": 8587,
+        "cityName": "Criciúma",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.67,
+        "longitude": -49.38
+    },
+    {
+        "cityID": 9145,
+        "cityName": "Jaraguá Do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.48,
+        "longitude": -49.07
+    },
+    {
+        "cityID": 13453,
+        "cityName": "São Bento Do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.25,
+        "longitude": -49.38
+    },
+    {
+        "cityID": 18203,
+        "cityName": "Presidente Getúlio",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.05,
+        "longitude": -49.62
+    },
+    {
+        "cityID": 28108,
+        "cityName": "Lages",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.8,
+        "longitude": -50.32
+    },
+    {
+        "cityID": 28774,
+        "cityName": "Garopaba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.07,
+        "longitude": -48.67
+    },
+    {
+        "cityID": 31938,
+        "cityName": "Otacílio Costa",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.57,
+        "longitude": -50.12
+    },
+    {
+        "cityID": 33034,
+        "cityName": "Chapecó",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -52.98
+    },
+    {
+        "cityID": 36884,
+        "cityName": "Timbó",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.83,
+        "longitude": -49.3
+    },
+    {
+        "cityID": 66628,
+        "cityName": "Nova Xavantina",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -52.33
+    },
+    {
+        "cityID": 66648,
+        "cityName": "Tubarão",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.5,
+        "longitude": -49.02
+    },
+    {
+        "cityID": 66649,
+        "cityName": "Videira",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27,
+        "longitude": -51.13
+    },
+    {
+        "cityID": 66658,
+        "cityName": "Caçador",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.78,
+        "longitude": -51
+    },
+    {
+        "cityID": 66755,
+        "cityName": "Rio Do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -49.65
+    },
+    {
+        "cityID": 66756,
+        "cityName": "Concórdia",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.23,
+        "longitude": -52.02
+    },
+    {
+        "cityID": 66757,
+        "cityName": "Abelardo Luz",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.6,
+        "longitude": -52.35
+    },
+    {
+        "cityID": 66758,
+        "cityName": "São Miguel Do Oeste",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.75,
+        "longitude": -53.57
+    },
+    {
+        "cityID": 66759,
+        "cityName": "Curitibanos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.3,
+        "longitude": -50.6
+    },
+    {
+        "cityID": 66786,
+        "cityName": "Joinvile",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.3,
+        "longitude": -48.83
+    },
+    {
+        "cityID": 66788,
+        "cityName": "Tijucas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.24,
+        "longitude": -48.63
+    },
+    {
+        "cityID": 66789,
+        "cityName": "Ibirama",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.07,
+        "longitude": -49.52
+    },
+    {
+        "cityID": 66790,
+        "cityName": "Laguna",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.48,
+        "longitude": -48.78
+    },
+    {
+        "cityID": 66877,
+        "cityName": "Gaspar",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -48.97
+    },
+    {
+        "cityID": 66889,
+        "cityName": "Irani",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.02,
+        "longitude": -51.9
+    },
+    {
+        "cityID": 66890,
+        "cityName": "Capinzal",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.33,
+        "longitude": -51.6
+    },
+    {
+        "cityID": 66892,
+        "cityName": "Joaçaba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.17,
+        "longitude": -51.5
+    },
+    {
+        "cityID": 66893,
+        "cityName": "Canoinhas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.17,
+        "longitude": -50.4
+    },
+    {
+        "cityID": 66919,
+        "cityName": "Biguaçu",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.5,
+        "longitude": -48.67
+    },
+    {
+        "cityID": 66954,
+        "cityName": "Santa Cecília",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -50.45
+    },
+    {
+        "cityID": 66955,
+        "cityName": "Araranguá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.93,
+        "longitude": -49.48
+    },
+    {
+        "cityID": 66956,
+        "cityName": "Pomerode",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.75,
+        "longitude": -49.18
+    },
+    {
+        "cityID": 66957,
+        "cityName": "Nereu Ramos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.45,
+        "longitude": -49.17
+    },
+    {
+        "cityID": 66959,
+        "cityName": "Imbituba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.23,
+        "longitude": -48.67
+    },
+    {
+        "cityID": 75542,
+        "cityName": "Paulo Lopes",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.96,
+        "longitude": -48.68
+    },
+    {
+        "cityID": 75543,
+        "cityName": "Lauro Müller",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.4,
+        "longitude": -49.38
+    },
+    {
+        "cityID": 75570,
+        "cityName": "Mafra",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.12,
+        "longitude": -49.8
+    },
+    {
+        "cityID": 75572,
+        "cityName": "Catanduvas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.07,
+        "longitude": -51.68
+    },
+    {
+        "cityID": 75602,
+        "cityName": "Palhoça",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.63,
+        "longitude": -48.67
+    },
+    {
+        "cityID": 76040,
+        "cityName": "Herval",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -51.57
+    },
+    {
+        "cityID": 76047,
+        "cityName": "Jaguaruna",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.6,
+        "longitude": -49.03
+    },
+    {
+        "cityID": 76064,
+        "cityName": "Itapema",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.1,
+        "longitude": -48.62
+    },
+    {
+        "cityID": 76065,
+        "cityName": "São João Batista",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.27,
+        "longitude": -48.83
+    },
+    {
+        "cityID": 76085,
+        "cityName": "Palmitos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -53.13
+    },
+    {
+        "cityID": 76111,
+        "cityName": "São Lourenço Do Oeste",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.4,
+        "longitude": -52.77
+    },
+    {
+        "cityID": 76112,
+        "cityName": "Barra Velha",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.64,
+        "longitude": -48.69
+    },
+    {
+        "cityID": 76121,
+        "cityName": "Papanduva",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.42,
+        "longitude": -50.15
+    },
+    {
+        "cityID": 76140,
+        "cityName": "Maravilha",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.78,
+        "longitude": -53.15
+    },
+    {
+        "cityID": 76152,
+        "cityName": "Ascurra",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.97,
+        "longitude": -49.37
+    },
+    {
+        "cityID": 76153,
+        "cityName": "Ilhota",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.9,
+        "longitude": -48.87
+    },
+    {
+        "cityID": 76159,
+        "cityName": "Nova Trento",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.28,
+        "longitude": -48.92
+    },
+    {
+        "cityID": 76161,
+        "cityName": "Navegantes",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.9,
+        "longitude": -48.65
+    },
+    {
+        "cityID": 76162,
+        "cityName": "Indaial",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.89,
+        "longitude": -49.22
+    },
+    {
+        "cityID": 76220,
+        "cityName": "Penha",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.77,
+        "longitude": -48.65
+    },
+    {
+        "cityID": 76221,
+        "cityName": "Massaranduba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.6,
+        "longitude": -49.02
+    },
+    {
+        "cityID": 76222,
+        "cityName": "Guaramirim",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.45,
+        "longitude": -49
+    },
+    {
+        "cityID": 76223,
+        "cityName": "Santo Amaro Da Imperatriz",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.68,
+        "longitude": -48.77
+    },
+    {
+        "cityID": 76226,
+        "cityName": "Laurentino",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -49.73
+    },
+    {
+        "cityID": 76443,
+        "cityName": "Luzerna",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.12,
+        "longitude": -51.47
+    },
+    {
+        "cityID": 76454,
+        "cityName": "Nova Veneza",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.65,
+        "longitude": -49.5
+    },
+    {
+        "cityID": 76516,
+        "cityName": "Ipumirim",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -52.13
+    },
+    {
+        "cityID": 76526,
+        "cityName": "Içara",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.7,
+        "longitude": -49.3
+    },
+    {
+        "cityID": 76530,
+        "cityName": "São Carlos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.07,
+        "longitude": -52.98
+    },
+    {
+        "cityID": 76531,
+        "cityName": "Cunha Porã",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.9,
+        "longitude": -53.15
+    },
+    {
+        "cityID": 77115,
+        "cityName": "Braço Do Norte",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.28,
+        "longitude": -49.18
+    },
+    {
+        "cityID": 77132,
+        "cityName": "São Francisco Do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.23,
+        "longitude": -48.65
+    },
+    {
+        "cityID": 77140,
+        "cityName": "Seara",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.12,
+        "longitude": -52.28
+    },
+    {
+        "cityID": 77144,
+        "cityName": "Cocal",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.62,
+        "longitude": -49.35
+    },
+    {
+        "cityID": 77152,
+        "cityName": "Bombinhas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.15,
+        "longitude": -48.51
+    },
+    {
+        "cityID": 77157,
+        "cityName": "Garuva",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -25.98,
+        "longitude": -48.88
+    },
+    {
+        "cityID": 77164,
+        "cityName": "Urubici",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.03,
+        "longitude": -49.62
+    },
+    {
+        "cityID": 78157,
+        "cityName": "Mulde Central",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.81,
+        "longitude": -49.22
+    },
+    {
+        "cityID": 78562,
+        "cityName": "Calmom",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.6,
+        "longitude": -51.08
+    },
+    {
+        "cityID": 78563,
+        "cityName": "Pinheiro Prêto",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.05,
+        "longitude": -51.2
+    },
+    {
+        "cityID": 78597,
+        "cityName": "São Bonifácio",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.9,
+        "longitude": -48.93
+    },
+    {
+        "cityID": 78598,
+        "cityName": "Itaperiú",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.58,
+        "longitude": -48.73
+    },
+    {
+        "cityID": 118843,
+        "cityName": "Rio Dos Cedros",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.73,
+        "longitude": -49.27
+    },
+    {
+        "cityID": 119107,
+        "cityName": "Treze De Maio",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.58,
+        "longitude": -49.17
+    },
+    {
+        "cityID": 119173,
+        "cityName": "Doutor Pedrinho",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.74,
+        "longitude": -49.57
+    },
+    {
+        "cityID": 119401,
+        "cityName": "Rio Negrinho",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.24,
+        "longitude": -49.5
+    },
+    {
+        "cityID": 119472,
+        "cityName": "Campos Novos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.4,
+        "longitude": -51.2
+    },
+    {
+        "cityID": 119568,
+        "cityName": "Balneário",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.98,
+        "longitude": -48.63
+    },
+    {
+        "cityID": 119581,
+        "cityName": "Três Barras",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.1,
+        "longitude": -50.32
+    },
+    {
+        "cityID": 119688,
+        "cityName": "Xaxim",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -52.52
+    },
+    {
+        "cityID": 120384,
+        "cityName": "Piçarras",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.77,
+        "longitude": -48.67
+    },
+    {
+        "cityID": 121211,
+        "cityName": "Caieira",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.42,
+        "longitude": -48.58
+    },
+    {
+        "cityID": 121563,
+        "cityName": "Descanso",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.83,
+        "longitude": -53.58
+    },
+    {
+        "cityID": 121753,
+        "cityName": "Urussanga",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.52,
+        "longitude": -49.32
+    },
+    {
+        "cityID": 122216,
+        "cityName": "São Joaquim",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.3,
+        "longitude": -49.93
+    },
+    {
+        "cityID": 122262,
+        "cityName": "Grão Pará",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.17,
+        "longitude": -49.22
+    },
+    {
+        "cityID": 122272,
+        "cityName": "Pouso Redondo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.25,
+        "longitude": -49.95
+    },
+    {
+        "cityID": 124063,
+        "cityName": "Arabutã",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.17,
+        "longitude": -52.12
+    },
+    {
+        "cityID": 125935,
+        "cityName": "Sangão",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.63,
+        "longitude": -49.13
+    },
+    {
+        "cityID": 125942,
+        "cityName": "Ituporanga",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.42,
+        "longitude": -49.6
+    },
+    {
+        "cityID": 126363,
+        "cityName": "Arroio Do Silva",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.98,
+        "longitude": -49.43
+    },
+    {
+        "cityID": 126382,
+        "cityName": "Sombrio",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -29.12,
+        "longitude": -49.67
+    },
+    {
+        "cityID": 127729,
+        "cityName": "Faxinal Dos Guedes",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.88,
+        "longitude": -52.23
+    },
+    {
+        "cityID": 128120,
+        "cityName": "Jaborá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.18,
+        "longitude": -51.73
+    },
+    {
+        "cityID": 146383,
+        "cityName": "Rodeio",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.85,
+        "longitude": -49.33
+    },
+    {
+        "cityID": 146402,
+        "cityName": "Abdon Batista",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.62,
+        "longitude": -50.98
+    },
+    {
+        "cityID": 146422,
+        "cityName": "Pinhalzinho",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.8,
+        "longitude": -52.95
+    },
+    {
+        "cityID": 146435,
+        "cityName": "Ibicaré",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.12,
+        "longitude": -51.4
+    },
+    {
+        "cityID": 147045,
+        "cityName": "Botuverá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -49.08
+    },
+    {
+        "cityID": 147047,
+        "cityName": "Anitápolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.9,
+        "longitude": -49.13
+    },
+    {
+        "cityID": 147048,
+        "cityName": "Corupá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.43,
+        "longitude": -49.23
+    },
+    {
+        "cityID": 147097,
+        "cityName": "Sao Miguel D'oeste",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.75,
+        "longitude": -53.57
+    },
+    {
+        "cityID": 147100,
+        "cityName": "Luiz Alves",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.73,
+        "longitude": -48.95
+    },
+    {
+        "cityID": 147104,
+        "cityName": "São José Do Cerrito",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.67,
+        "longitude": -50.58
+    },
+    {
+        "cityID": 147490,
+        "cityName": "Itapiranga",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.13,
+        "longitude": -53.72
+    },
+    {
+        "cityID": 147491,
+        "cityName": "Mondaí",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -53.42
+    },
+    {
+        "cityID": 147501,
+        "cityName": "Forquilhas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.52,
+        "longitude": -48.78
+    },
+    {
+        "cityID": 147520,
+        "cityName": "Siderópolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.58,
+        "longitude": -49.43
+    },
+    {
+        "cityID": 147530,
+        "cityName": "Dionísio Cerqueira",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.25,
+        "longitude": -53.63
+    },
+    {
+        "cityID": 147531,
+        "cityName": "Barra Do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.46,
+        "longitude": -48.6
+    },
+    {
+        "cityID": 148260,
+        "cityName": "Campo Alegre",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.19,
+        "longitude": -49.25
+    },
+    {
+        "cityID": 148326,
+        "cityName": "Apiúna",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.03,
+        "longitude": -49.42
+    },
+    {
+        "cityID": 150541,
+        "cityName": "Iporã",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.98,
+        "longitude": -53.58
+    },
+    {
+        "cityID": 150553,
+        "cityName": "São Martinho",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.17,
+        "longitude": -48.97
+    },
+    {
+        "cityID": 151354,
+        "cityName": "Pôrto União",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.25,
+        "longitude": -51.08
+    },
+    {
+        "cityID": 161356,
+        "cityName": "Orleans",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.35,
+        "longitude": -49.3
+    },
+    {
+        "cityID": 161365,
+        "cityName": "Celso Ramos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.62,
+        "longitude": -51.4
+    },
+    {
+        "cityID": 161418,
+        "cityName": "Trombudo Central",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.3,
+        "longitude": -49.78
+    },
+    {
+        "cityID": 161860,
+        "cityName": "Canelinha",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.28,
+        "longitude": -48.78
+    },
+    {
+        "cityID": 161890,
+        "cityName": "Morro Da Fumaça",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.67,
+        "longitude": -49.2
+    },
+    {
+        "cityID": 161891,
+        "cityName": "Taió",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.1,
+        "longitude": -49.98
+    },
+    {
+        "cityID": 161924,
+        "cityName": "Coronel Freitas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -52.78
+    },
+    {
+        "cityID": 161925,
+        "cityName": "Bandeirante",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.8,
+        "longitude": -53.63
+    },
+    {
+        "cityID": 161930,
+        "cityName": "Luís Alves",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.73,
+        "longitude": -48.95
+    },
+    {
+        "cityID": 161958,
+        "cityName": "Meia Praia",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.12,
+        "longitude": -48.61
+    },
+    {
+        "cityID": 161959,
+        "cityName": "Treze Tílias",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27,
+        "longitude": -51.4
+    },
+    {
+        "cityID": 161961,
+        "cityName": "Salto",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.53,
+        "longitude": -48.83
+    },
+    {
+        "cityID": 162251,
+        "cityName": "Anchieta",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.55,
+        "longitude": -53.28
+    },
+    {
+        "cityID": 162252,
+        "cityName": "Quilombo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.78,
+        "longitude": -52.75
+    },
+    {
+        "cityID": 162253,
+        "cityName": "Tangará",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.13,
+        "longitude": -51.22
+    },
+    {
+        "cityID": 162254,
+        "cityName": "São Domingos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.57,
+        "longitude": -52.53
+    },
+    {
+        "cityID": 162258,
+        "cityName": "Erval Velho",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.28,
+        "longitude": -51.43
+    },
+    {
+        "cityID": 162259,
+        "cityName": "Anita Garibaldi",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.62,
+        "longitude": -51.08
+    },
+    {
+        "cityID": 162310,
+        "cityName": "Águas De Chapecó",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -52.98
+    },
+    {
+        "cityID": 162701,
+        "cityName": "Schroeder",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.43,
+        "longitude": -49.07
+    },
+    {
+        "cityID": 162722,
+        "cityName": "Água Doce",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27,
+        "longitude": -51.55
+    },
+    {
+        "cityID": 164286,
+        "cityName": "Itá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.27,
+        "longitude": -52.32
+    },
+    {
+        "cityID": 168291,
+        "cityName": "Turvo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.93,
+        "longitude": -49.68
+    },
+    {
+        "cityID": 168295,
+        "cityName": "Cêrro Negro",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.8,
+        "longitude": -50.88
+    },
+    {
+        "cityID": 168463,
+        "cityName": "Xapecó",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.1,
+        "longitude": -52.6
+    },
+    {
+        "cityID": 168517,
+        "cityName": "Ascuria",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.97,
+        "longitude": -49.37
+    },
+    {
+        "cityID": 168531,
+        "cityName": "Rio Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -49.64
+    },
+    {
+        "cityID": 168663,
+        "cityName": "Witmarsum",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -49.79
+    },
+    {
+        "cityID": 168727,
+        "cityName": "10 De Novembro",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.03,
+        "longitude": -50.93
+    },
+    {
+        "cityID": 168931,
+        "cityName": "Aguti",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.3,
+        "longitude": -49.15
+    },
+    {
+        "cityID": 169360,
+        "cityName": "Gravatal",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.33,
+        "longitude": -49.03
+    },
+    {
+        "cityID": 169364,
+        "cityName": "São Pedro De Alcântara",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.58,
+        "longitude": -48.8
+    },
+    {
+        "cityID": 169375,
+        "cityName": "São João Do Itaperiú",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.61,
+        "longitude": -48.74
+    },
+    {
+        "cityID": 169376,
+        "cityName": "Itoupava Rega",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.75,
+        "longitude": -49.08
+    },
+    {
+        "cityID": 169377,
+        "cityName": "Curral Das Minas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.99,
+        "longitude": -49.01
+    },
+    {
+        "cityID": 169385,
+        "cityName": "Itaiópolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.33,
+        "longitude": -49.93
+    },
+    {
+        "cityID": 169451,
+        "cityName": "Guaporanga",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.45,
+        "longitude": -48.63
+    },
+    {
+        "cityID": 169490,
+        "cityName": "Alto Atafona",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.13,
+        "longitude": -49.51
+    },
+    {
+        "cityID": 169491,
+        "cityName": "Braço Do Trombudo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.35,
+        "longitude": -49.9
+    },
+    {
+        "cityID": 169492,
+        "cityName": "Ponte Alta De Cima",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.13,
+        "longitude": -50.47
+    },
+    {
+        "cityID": 176598,
+        "cityName": "Guarujá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.43,
+        "longitude": -53.57
+    },
+    {
+        "cityID": 178545,
+        "cityName": "Rancho Queimado",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.68,
+        "longitude": -49.03
+    },
+    {
+        "cityID": 178894,
+        "cityName": "Correia Pinto",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.58,
+        "longitude": -50.4
+    },
+    {
+        "cityID": 179176,
+        "cityName": "Guaraciaba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.58,
+        "longitude": -53.58
+    },
+    {
+        "cityID": 179182,
+        "cityName": "Araquari",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.37,
+        "longitude": -48.72
+    },
+    {
+        "cityID": 179348,
+        "cityName": "Ponte Alta Do Norte",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.13,
+        "longitude": -50.47
+    },
+    {
+        "cityID": 179371,
+        "cityName": "Treviso",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.52,
+        "longitude": -49.47
+    },
+    {
+        "cityID": 179437,
+        "cityName": "Rio Das Antas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.5,
+        "longitude": -50.23
+    },
+    {
+        "cityID": 179441,
+        "cityName": "Vidal Ramos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.38,
+        "longitude": -49.37
+    },
+    {
+        "cityID": 179756,
+        "cityName": "Saudades",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.95,
+        "longitude": -52.97
+    },
+    {
+        "cityID": 179772,
+        "cityName": "Meleiro",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.83,
+        "longitude": -49.63
+    },
+    {
+        "cityID": 179782,
+        "cityName": "Paula",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.22,
+        "longitude": -48.6
+    },
+    {
+        "cityID": 179868,
+        "cityName": "Rio Do Campo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.97,
+        "longitude": -50.15
+    },
+    {
+        "cityID": 179934,
+        "cityName": "Salete",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.98,
+        "longitude": -50
+    },
+    {
+        "cityID": 179990,
+        "cityName": "Lebon Régis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -50.7
+    },
+    {
+        "cityID": 180027,
+        "cityName": "Piratuba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.45,
+        "longitude": -51.8
+    },
+    {
+        "cityID": 180032,
+        "cityName": "Benedito Novo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.8,
+        "longitude": -49.42
+    },
+    {
+        "cityID": 180549,
+        "cityName": "Caxambu",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.17,
+        "longitude": -52.87
+    },
+    {
+        "cityID": 180655,
+        "cityName": "Iraceminha",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.83,
+        "longitude": -53.25
+    },
+    {
+        "cityID": 180919,
+        "cityName": "Campo Belo Do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.9,
+        "longitude": -50.75
+    },
+    {
+        "cityID": 181335,
+        "cityName": "Fragosos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.16,
+        "longitude": -49.38
+    },
+    {
+        "cityID": 182210,
+        "cityName": "Ipuaçu",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.57,
+        "longitude": -52.45
+    },
+    {
+        "cityID": 183518,
+        "cityName": "Santa Rosa",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -29.13,
+        "longitude": -49.72
+    },
+    {
+        "cityID": 184407,
+        "cityName": "Ponte Serrada",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.87,
+        "longitude": -51.97
+    },
+    {
+        "cityID": 184760,
+        "cityName": "José Boiteux",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.96,
+        "longitude": -49.63
+    },
+    {
+        "cityID": 186597,
+        "cityName": "São João",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.17,
+        "longitude": -50.15
+    },
+    {
+        "cityID": 186910,
+        "cityName": "Capão Alto",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.93,
+        "longitude": -50.5
+    },
+    {
+        "cityID": 188490,
+        "cityName": "São José Do Cedro",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.5,
+        "longitude": -53.5
+    },
+    {
+        "cityID": 189084,
+        "cityName": "Maracajá",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.85,
+        "longitude": -49.47
+    },
+    {
+        "cityID": 190098,
+        "cityName": "Timbé",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.82,
+        "longitude": -49.85
+    },
+    {
+        "cityID": 190347,
+        "cityName": "Mirim Doce",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.2,
+        "longitude": -50.08
+    },
+    {
+        "cityID": 191250,
+        "cityName": "Antônio Carlos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.47,
+        "longitude": -48.85
+    },
+    {
+        "cityID": 191552,
+        "cityName": "Armazém",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.27,
+        "longitude": -49.02
+    },
+    {
+        "cityID": 191842,
+        "cityName": "Bom Retiro",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.12,
+        "longitude": -51.47
+    },
+    {
+        "cityID": 193603,
+        "cityName": "Campo Erê",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.38,
+        "longitude": -53.05
+    },
+    {
+        "cityID": 195067,
+        "cityName": "Urupema",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.95,
+        "longitude": -49.87
+    },
+    {
+        "cityID": 196855,
+        "cityName": "Balneário Camboriú",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.98,
+        "longitude": -48.63
+    },
+    {
+        "cityID": 204264,
+        "cityName": "Xavantina",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.08,
+        "longitude": -52.33
+    },
+    {
+        "cityID": 204283,
+        "cityName": "Ouro",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.35,
+        "longitude": -51.68
+    },
+    {
+        "cityID": 204834,
+        "cityName": "Imarui",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.35,
+        "longitude": -48.82
+    },
+    {
+        "cityID": 204987,
+        "cityName": "Erval d'Oeste",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -51.57
+    },
+    {
+        "cityID": 207439,
+        "cityName": "Agronomica",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.58,
+        "longitude": -48.54
+    },
+    {
+        "cityID": 207451,
+        "cityName": "Lontras",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.17,
+        "longitude": -49.54
+    },
+    {
+        "cityID": 208084,
+        "cityName": "Frias",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.23,
+        "longitude": -48.72
+    },
+    {
+        "cityID": 208812,
+        "cityName": "Pedras Grandes",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.45,
+        "longitude": -49.18
+    },
+    {
+        "cityID": 209658,
+        "cityName": "Alto Bela Vista",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.43,
+        "longitude": -51.87
+    },
+    {
+        "cityID": 210104,
+        "cityName": "Romelandia",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.63,
+        "longitude": -53.32
+    },
+    {
+        "cityID": 210987,
+        "cityName": "Major",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.42,
+        "longitude": -48.95
+    },
+    {
+        "cityID": 214440,
+        "cityName": "Fraiburgo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.03,
+        "longitude": -50.92
+    },
+    {
+        "cityID": 217026,
+        "cityName": "Rio Fortuna",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.1,
+        "longitude": -49.12
+    },
+    {
+        "cityID": 217645,
+        "cityName": "Rio Rufino",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.87,
+        "longitude": -49.78
+    },
+    {
+        "cityID": 219770,
+        "cityName": "Guatambu",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.12,
+        "longitude": -52.75
+    },
+    {
+        "cityID": 220021,
+        "cityName": "Sao Lourenco dOeste",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.4,
+        "longitude": -52.77
+    },
+    {
+        "cityID": 221304,
+        "cityName": "Alfredo Wagner",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.7,
+        "longitude": -49.33
+    },
+    {
+        "cityID": 222648,
+        "cityName": "Lacerdopolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.25,
+        "longitude": -51.57
+    },
+    {
+        "cityID": 223056,
+        "cityName": "Ipira",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.43,
+        "longitude": -51.82
+    },
+    {
+        "cityID": 225711,
+        "cityName": "Painel",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.92,
+        "longitude": -50.1
+    },
+    {
+        "cityID": 226978,
+        "cityName": "Angelina",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.58,
+        "longitude": -48.98
+    },
+    {
+        "cityID": 227327,
+        "cityName": "Major Vieira",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.32,
+        "longitude": -50.33
+    },
+    {
+        "cityID": 230535,
+        "cityName": "Marema",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.83,
+        "longitude": -52.72
+    },
+    {
+        "cityID": 234488,
+        "cityName": "Itaqua",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.3,
+        "longitude": -49.45
+    },
+    {
+        "cityID": 237026,
+        "cityName": "Guabiruba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.09,
+        "longitude": -48.97
+    },
+    {
+        "cityID": 255193,
+        "cityName": "Leoberto Leal",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.51,
+        "longitude": -49.29
+    },
+    {
+        "cityID": 255636,
+        "cityName": "Monte Carlo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.22,
+        "longitude": -50.98
+    },
+    {
+        "cityID": 255785,
+        "cityName": "Sao Paulo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.63,
+        "longitude": -50.95
+    },
+    {
+        "cityID": 256565,
+        "cityName": "Brunopolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.31,
+        "longitude": -50.87
+    },
+    {
+        "cityID": 256678,
+        "cityName": "Atalanta",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.42,
+        "longitude": -49.78
+    },
+    {
+        "cityID": 257733,
+        "cityName": "Aguas Mornas",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.69,
+        "longitude": -48.82
+    },
+    {
+        "cityID": 258026,
+        "cityName": "Jacinto Machado",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -29,
+        "longitude": -49.77
+    },
+    {
+        "cityID": 258935,
+        "cityName": "Bateias de Baixo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.09,
+        "longitude": -49.26
+    },
+    {
+        "cityID": 260088,
+        "cityName": "Coronel Martins",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.5,
+        "longitude": -52.65
+    },
+    {
+        "cityID": 261984,
+        "cityName": "Peritiba",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.37,
+        "longitude": -51.9
+    },
+    {
+        "cityID": 265787,
+        "cityName": "Azambuja",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.5,
+        "longitude": -49.22
+    },
+    {
+        "cityID": 269588,
+        "cityName": "Barra de Laguna",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.5,
+        "longitude": -48.75
+    },
+    {
+        "cityID": 274534,
+        "cityName": "Kobrasol",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.6,
+        "longitude": -48.61
+    },
+    {
+        "cityID": 292687,
+        "cityName": "Agrolandia",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.41,
+        "longitude": -49.83
+    },
+    {
+        "cityID": 293267,
+        "cityName": "Governador Celso Ramos",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.35,
+        "longitude": -48.53
+    },
+    {
+        "cityID": 293501,
+        "cityName": "Cunhatai",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.97,
+        "longitude": -53.09
+    },
+    {
+        "cityID": 293795,
+        "cityName": "Sao Joao do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -29.2,
+        "longitude": -50.03
+    },
+    {
+        "cityID": 294254,
+        "cityName": "Coracao",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.93,
+        "longitude": -51.75
+    },
+    {
+        "cityID": 294325,
+        "cityName": "Balneario Arroio do Silva",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.98,
+        "longitude": -49.41
+    },
+    {
+        "cityID": 294418,
+        "cityName": "Frei Rogerio",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.18,
+        "longitude": -50.83
+    },
+    {
+        "cityID": 294431,
+        "cityName": "Galvao",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.46,
+        "longitude": -52.69
+    },
+    {
+        "cityID": 294433,
+        "cityName": "Jardim",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.7,
+        "longitude": -52.12
+    },
+    {
+        "cityID": 294469,
+        "cityName": "Vila Nova",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.33,
+        "longitude": -50.78
+    },
+    {
+        "cityID": 295072,
+        "cityName": "Monte Castelo",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.5,
+        "longitude": -50.18
+    },
+    {
+        "cityID": 295112,
+        "cityName": "Arroio Trinta",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.87,
+        "longitude": -51.32
+    },
+    {
+        "cityID": 295118,
+        "cityName": "Pescaria Brava",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -28.38,
+        "longitude": -48.88
+    },
+    {
+        "cityID": 295160,
+        "cityName": "Tunapolis",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.97,
+        "longitude": -53.64
+    },
+    {
+        "cityID": 295531,
+        "cityName": "Alegre",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27,
+        "longitude": -49.99
+    },
+    {
+        "cityID": 295765,
+        "cityName": "Bairro Fortaleza",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.87,
+        "longitude": -49.05
+    },
+    {
+        "cityID": 296005,
+        "cityName": "Matos Costa",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.48,
+        "longitude": -51.16
+    },
+    {
+        "cityID": 296031,
+        "cityName": "Balneario Gaivota",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -29.13,
+        "longitude": -49.61
+    },
+    {
+        "cityID": 296395,
+        "cityName": "Caibi",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -27.07,
+        "longitude": -53.25
+    },
+    {
+        "cityID": 296605,
+        "cityName": "Serra Alta",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.7,
+        "longitude": -53.01
+    },
+    {
+        "cityID": 296606,
+        "cityName": "Saltinho",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.58,
+        "longitude": -53.03
+    },
+    {
+        "cityID": 296776,
+        "cityName": "Paraiso",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.6,
+        "longitude": -53.65
+    },
+    {
+        "cityID": 296819,
+        "cityName": "Iraputa",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.45,
+        "longitude": -50.02
+    },
+    {
+        "cityID": 298155,
+        "cityName": "Sao Sebastiao do Sul",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.67,
+        "longitude": -50.7
+    },
+    {
+        "cityID": 303744,
+        "cityName": "Volta Grande",
+        "state_id": 78,
+        "countryID": "BRA",
+        "latitude": -26.87,
+        "longitude": -49.64
+    }
+]
