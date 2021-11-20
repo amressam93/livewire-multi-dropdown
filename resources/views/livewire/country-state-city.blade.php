@@ -34,28 +34,32 @@
             <label for="city" class="col-md-4 col-form-label text-md-right">{{ __('City') }}</label>
 
             <div class="col-md-6">
-                <select wire:model="selectedCity" class="form-control" name="city_id">
+                <select wire:model="selectedCity" class="form-control" name="city_id" wire:click="changeEvent($event.target.value)">
                     <option value="" selected>Choose city</option>
                     @foreach($cities as $city)
                         <option value="{{ $city->id }}">{{ $city->cityName  }}</option>
                     @endforeach
                 </select>
+                <p>Selected City ID: {{ $city_lat }}</p>
             </div>
             {{$selectedCity}}
 
         </div>
     @endif
 
+    <br>
     @if (!is_null($selectedCity))
         <div class="form-group row">
-            <label for="city" class="col-md-4 col-form-label text-md-right">{{ __('City Latitude') }}</label>
+            <label for="city" class="col-md-4 col-form-label text-md-right">{{ __('City Information') }}</label>
 
             <div class="col-md-6">
-                <input type="text" name="lat" id="lat" class="form-control"  wire:model="selectedCityLat">
+                <label for="lat">City latitude</label>
+                <input type="text" name="lat" id="lat" class="form-control"  wire:model="city_lat"><br>
+                <label for="lang">City longitude</label>
+                <input type="text" name="lang" id="lang" class="form-control"  wire:model="city_lang"><br>
             </div>
         </div>
     @endif
-
 
 
 </div>

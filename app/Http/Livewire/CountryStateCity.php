@@ -15,12 +15,16 @@ class CountryStateCity extends Component
     public $states;
     public $cities;
     public $ottPlatform = [];
-    public $cityLat;
+    public $city_lat = '';
+    public $city_lang = '';
+
+
+
 
     public $selectedCountry = null;
     public $selectedState = null;
     public $selectedCity = null;
-    public $selectedCityLat = null;
+
 
 
     public function mount($selectedCity = null)
@@ -31,9 +35,7 @@ class CountryStateCity extends Component
         $this->selectedCity = $selectedCity;
         //$this->emit('productStore');
 
-
-        $this->selectedCityLat = $selectedCity;
-
+        
         if (!is_null($selectedCity))
         {
             $city = City::with('state.country')->find($selectedCity);
@@ -47,6 +49,7 @@ class CountryStateCity extends Component
 
             }
         }
+
 
     }
 
@@ -82,6 +85,12 @@ class CountryStateCity extends Component
 
 
 
+    public function changeEvent($city_id)
+    {
+        $this->city_lat = City::where('id', $city_id)->pluck('latitude')->first();
+
+        $this->city_lang = City::where('id', $city_id)->pluck('longitude')->first();
+    }
 
 
 }
